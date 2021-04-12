@@ -46,18 +46,18 @@ If you use the data, you MUST acknowledge the project. The license is CC-BY 4.0,
 
 In a press release:
 
-> Modellen er præ-trænet på et datasæt fra The Danish Gigaword Project, der er udviklet af forskere fra IT-Universitetet i København
+> Modellen er præ-trænet på et datasæt fra The Danish Gigaword Project ([https://gigaword.dk]), der er udviklet af forskere fra IT-Universitetet i København
 
-> The model is pre-trained using the Danish Gigaword Corpus, developed at the IT University of Copenhagen
+> The model is pre-trained using the Danish Gigaword Corpus ([https://gigaword.dk]), developed at the IT University of Copenhagen
 
 In academic writing:
 
-> Derczynski, L., Ciosici, M., et al. (2021). The Danish Gigaword Corpus. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021)*.
+> Derczynski, L., Ciosici, M. R., et al. (2021). The Danish Gigaword Corpus. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021)*.
 
 ```
 @inproceedings{dagw,
   title = {{The Danish Gigaword Corpus}},
-  author = {Leon Derczynski and Manuel Ciosici and Rebekah Baglini and Morten H. Christiansen and Jacob Aarup Dalsgaard and Riccardo Fusaroli and Peter Juel Henrichsen and Rasmus Hvingelby and Andreas Kirkedal and Alex Speed Kjeldsen and Claus Ladefoged and Finn Årup Nielsen and Jens Madsen and Malte Lau Petersen and Jonathan Hvithamar Rystrøm and Daniel Varab},
+  author = {Leon Derczynski and Manuel R. Ciosici and Rebekah Baglini and Morten H. Christiansen and Jacob Aarup Dalsgaard and Riccardo Fusaroli and Peter Juel Henrichsen and Rasmus Hvingelby and Andreas Kirkedal and Alex Speed Kjeldsen and Claus Ladefoged and Finn Årup Nielsen and Jens Madsen and Malte Lau Petersen and Jonathan Hvithamar Rystrøm and Daniel Varab},
   year = 2021,
   booktitle = {Proceedings of the 23rd Nordic Conference on Computational Linguistics},
   publisher = {NEALT}
@@ -72,7 +72,7 @@ That's all we ask in return for our work; no money, no signed agreement, no roya
 
 ## Models using Danish Gigaword
 
-* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing: [huggingface](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
+* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing [Huggingface Model Hub](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
 
 We're interested in how DAGW is used; please contact us with details of models using it.
 
@@ -87,6 +87,6 @@ We're interested in how DAGW is used; please contact us with details of tools us
 
 ## Contact
 
-The project is managed by Leon Derczynski (leod@itu.dk) and Manuel Ciosici (manuelc@isi.edu).
+The project is managed by Leon Derczynski (leod@itu.dk) and Manuel R. Ciosici (manuelc@isi.edu).
 
 [Background image of Henne Kirkeby by Sven Huls](https://www.pexels.com/photo/aerial-photo-of-beach-3596017/)
