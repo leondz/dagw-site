@@ -19,11 +19,11 @@ advanced:
 
 ## Introduction
 
-It’s hard to develop good tools for Danish NLP when no large and wide-coverage corpus is readily available. To address this, the Danish Gigaword project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is:
+It’s hard to develop good tools for Danish NLP when no large and wide-coverage corpus is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is:
 
  1. representative; 
  2. accessible; 
- 3. a suitable common starting point Danish NLP models.
+ 3. a suitable common starting point for Danish NLP models.
 
 The corpus is managed and communicated in English so that the world beyond Denmark can also use the resource.
 
@@ -40,7 +40,7 @@ Read the paper about [The Danish Gigaword Corpus](http://derczynski.com/papers/d
 
 ## License & Reference
 
-If you use the data, you MUST acknowledge the project. The license is CC-BY 4.0, Creative Commons with Attribution.
+If you use the data, you MUST acknowledge it. The license is CC-BY 4.0, Creative Commons with Attribution. 
 
 ### Sample attributions:
 
@@ -54,15 +54,15 @@ In academic writing:
 
 > Derczynski, L., Ciosici, M. R., et al. (2021). The Danish Gigaword Corpus. In *Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021)*.
 
-```
-@inproceedings{dagw,
-  title = {{The Danish Gigaword Corpus}},
-  author = {Leon Derczynski and Manuel R. Ciosici and Rebekah Baglini and Morten H. Christiansen and Jacob Aarup Dalsgaard and Riccardo Fusaroli and Peter Juel Henrichsen and Rasmus Hvingelby and Andreas Kirkedal and Alex Speed Kjeldsen and Claus Ladefoged and Finn Årup Nielsen and Jens Madsen and Malte Lau Petersen and Jonathan Hvithamar Rystrøm and Daniel Varab},
-  year = 2021,
-  booktitle = {Proceedings of the 23rd Nordic Conference on Computational Linguistics},
-  publisher = {NEALT}
-}
-```
+> ```
+> @inproceedings{dagw,
+>  title = {{The Danish Gigaword Corpus}},
+>  author = {Leon Derczynski and Manuel R. Ciosici and Rebekah Baglini and Morten H. Christiansen and Jacob Aarup Dalsgaard and Riccardo Fusaroli and Peter Juel Henrichsen and Rasmus Hvingelby and Andreas Kirkedal and Alex Speed Kjeldsen and Claus Ladefoged and Finn Årup Nielsen and Jens Madsen and Malte Lau Petersen and Jonathan Hvithamar Rystrøm and Daniel Varab},
+>  year = 2021,
+>  booktitle = {Proceedings of the 23rd Nordic Conference on Computational Linguistics},
+>  publisher = {NEALT}
+>}
+>```
 
 In a software product, tool, or service:
 
@@ -70,9 +70,11 @@ In a software product, tool, or service:
 
 That's all we ask in return for our work; no money, no signed agreement, no royalties - just acknowledgment. We hope you think that's fair.
 
+If you cannot acknowledge the project like this, you are not licensed to use the data.
+
 ## Models using Danish Gigaword
 
-* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing [Huggingface Model Hub](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
+* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing. [Huggingface Model Hub](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
 
 We're interested in how DAGW is used; please contact us if you train a model over it.
 
