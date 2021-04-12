@@ -10,6 +10,18 @@ weight: 10  # Order that this section will appear.
 title: "Danish Gigaword"
 subtitle: "A billion-word corpus of Danish text, freely distributed with attribution."
 
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  background:
+    # Apply a background color, gradient, or image.
+    #   Uncomment (by removing `#`) an option to apply it.
+    #   Choose a light or dark text color by setting `text_color_light`.
+    #   Any HTML color name or Hex value is valid.
+    # color: navy
+    # gradient_start: DarkGreen
+    # gradient_end: ForestGreen
+    text_color_light: true
 advanced:
   css_style:
   css_class: fullscreen
