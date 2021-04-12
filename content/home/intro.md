@@ -19,11 +19,11 @@ advanced:
 
 ## Introduction
 
-It’s hard to develop good tools for Danish NLP when no large and wide-coverage corpus is readily available. To address this, the Danish Gigaword project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is 
+It’s hard to develop good tools for Danish NLP when no large and wide-coverage corpus is readily available. To address this, the Danish Gigaword project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is:
 
  1. representative; 
  2. accessible; 
- 3. a suitable basis for starting Danish NLP models.
+ 3. a suitable common starting point Danish NLP models.
 
 The corpus is managed and communicated in English so that the world beyond Denmark can also use the resource.
 
@@ -46,9 +46,9 @@ If you use the data, you MUST acknowledge the project. The license is CC-BY 4.0,
 
 In a press release:
 
-> Modellen er præ-trænet på et datasæt fra The Danish Gigaword Project ([https://gigaword.dk]), der er udviklet af forskere fra IT-Universitetet i København
+> Modellen er præ-trænet på et datasæt fra The Danish Gigaword Project ([https://gigaword.dk](https://gigaword.dk)), der er udviklet af forskere fra IT-Universitetet i København
 
-> The model is pre-trained using the Danish Gigaword Corpus ([https://gigaword.dk]), developed at the IT University of Copenhagen
+> The model is pre-trained using the Danish Gigaword Corpus ([https://gigaword.dk](https://gigaword.dk)), developed at the IT University of Copenhagen
 
 In academic writing:
 
@@ -74,11 +74,11 @@ That's all we ask in return for our work; no money, no signed agreement, no roya
 
 * Ælæctra - A Step Towards More Efficient Danish Natural Language Processing [Huggingface Model Hub](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
 
-We're interested in how DAGW is used; please contact us with details of models using it.
+We're interested in how DAGW is used; please contact us if you train a model over it.
 
 ## Tools using Danish Gigaword
 
-We're interested in how DAGW is used; please contact us with details of tools using it.
+We're interested in how DAGW is used; please contact us if you build a tool from it.
 
 ## Press Coverage
 
@@ -87,6 +87,6 @@ We're interested in how DAGW is used; please contact us with details of tools us
 
 ## Contact
 
-The project is managed by Leon Derczynski (leod@itu.dk) and Manuel R. Ciosici (manuelc@isi.edu).
+The project is managed by Leon Derczynski (ld@itu.dk) and Manuel R. Ciosici (manuelc@isi.edu).
 
 [Background image of Henne Kirkeby by Sven Huls](https://www.pexels.com/photo/aerial-photo-of-beach-3596017/)

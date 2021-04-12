@@ -24,4 +24,6 @@ design:
     image_position: right
     image_parallax: true
     text_color_light: true
----    
+advanced:
+  css_style: 'padding: 150px 0'
+--- 
