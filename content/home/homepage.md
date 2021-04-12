@@ -21,8 +21,8 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    text_color_light: true
+    # text_color_light: true
 advanced:
   css_style:
-  css_class: fullscreen
+  css_class: 
 ---

@@ -7,6 +7,9 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 30  # Order that this section will appear.
 
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 
 advanced:
   css_style:
@@ -26,9 +29,14 @@ The corpus is managed and communicated in English so that the world beyond Denma
 
 ## Download
 
-Download via European Language Resources Association (ELRA) - TBA Spring 2021
+TBA Spring 2021
 
-Download via IT University of Copenhagen (ITU) - TBA Spring 2021
+* via European Language Resources Association (ELRA) 
+* via IT University of Copenhagen (ITU) 
+
+## Documentation
+
+Read the paper about [The Danish Gigaword Corpus](http://derczynski.com/papers/dagw.pdf).
 
 ## License & Reference
 
@@ -58,13 +66,13 @@ In academic writing:
 
 In a software product, tool, or service:
 
-> Danish Gigaword Corpus [show license](https://creativecommons.org/licenses/by/4.0/) [homepage](https://gigaword.dk)
+> Danish Gigaword Corpus: [license](https://creativecommons.org/licenses/by/4.0/) - [homepage](https://gigaword.dk)
 
 That's all we ask in return for our work; no money, no signed agreement, no royalties - just acknowledgment. We hope you think that's fair.
 
 ## Models using Danish Gigaword
 
-* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing:[huggingface](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
+* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing: [huggingface](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
 
 We're interested in how DAGW is used; please contact us with details of models using it.
 
