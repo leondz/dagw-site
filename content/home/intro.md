@@ -66,7 +66,9 @@ In academic writing:
 
 In a software product, tool, or service:
 
-> Danish Gigaword Corpus: [license](https://creativecommons.org/licenses/by/4.0/) - [homepage](https://gigaword.dk)
+> Danish Gigaword Corpus: [license](https://creativecommons.org/licenses/by/4.0/) - [homepage](https://gigaword.dk/)
+
+> Denne service er lavede med data fra [The Danish Gigaword Corpus](https://gigaword.dk/)
 
 That's all we ask in return for our work; no money, no signed agreement, no royalties - just acknowledgment. We hope you think that's fair.
 
@@ -91,4 +93,6 @@ We're interested in how DAGW is used; please contact us if you build a tool from
 
 The project is managed by Leon Derczynski (ld@itu.dk) and Manuel R. Ciosici (manuelc@isi.edu).
 
-[Background image of Henne Kirkeby by Sven Huls](https://www.pexels.com/photo/aerial-photo-of-beach-3596017/)
+## Credits
+
+Background image of [Henne Kirkeby](https://www.pexels.com/photo/aerial-photo-of-beach-3596017/) by Sven Huls
