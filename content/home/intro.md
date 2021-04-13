@@ -33,7 +33,7 @@ TBA Spring 2021
 
 * via European Language Resources Association (ELRA) 
 * via IT University of Copenhagen (ITU) 
-
+* via Alexandra Institute
 ## Documentation
 
 Read the paper about [The Danish Gigaword Corpus](http://derczynski.com/papers/dagw.pdf).
