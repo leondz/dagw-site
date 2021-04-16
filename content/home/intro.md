@@ -34,6 +34,11 @@ TBA Spring 2021
 * via European Language Resources Association (ELRA) 
 * via IT University of Copenhagen (ITU) 
 * via Alexandra Institute
+
+Register here to be notified when the data is released
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=timivgh6hkC0THH1f3Fr24J2p5zdAYRMo2Yw2XPxbu5URFMwQUdLNkNTT0YzV1FWU0gzVTQ2M0k0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 ## Documentation
 
 Read the paper about [The Danish Gigaword Corpus](http://derczynski.com/papers/dagw.pdf).
