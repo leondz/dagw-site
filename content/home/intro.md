@@ -96,7 +96,7 @@ We're interested in how DAGW is used; please contact us if you build a tool from
 
 ## Contact
 
-The project is managed by Leon Derczynski (ld@itu.dk) and Manuel R. Ciosici (manuelc@isi.edu).
+The project is managed by Leon Derczynski (ld@itu.dk, PI) and Manuel R. Ciosici (manuelc@isi.edu, Co-I).
 
 ## Credits
 
