@@ -33,9 +33,6 @@ Danish Gigaword is available via the IT University of Copenhagen:
 
 > [dagw_v1.0-release.zip](https://bit.ly/danishgigaword10)  _(2.2 GiB; md5 1eeca465f0ba00e8b03ed234a768c3ff)_
 
-Register here to be notified of new releases:
-
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=timivgh6hkC0THH1f3Fr24J2p5zdAYRMo2Yw2XPxbu5URFMwQUdLNkNTT0YzV1FWU0gzVTQ2M0k0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Documentation
 
