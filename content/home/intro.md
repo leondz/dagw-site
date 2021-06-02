@@ -31,7 +31,7 @@ The corpus is managed and communicated in English so that the world beyond Denma
 
 Danish Gigaword is available via the IT University of Copenhagen: 
 
-> [dagw_v1.0-release.zip](https://itu.dk/research/dagw/dagw_v1.0-release.zip)  _(2.2 GiB; md5 1eeca465f0ba00e8b03ed234a768c3ff)_
+> [dagw_v1.0-release.zip](https://bit.ly/danishgigaword10)  _(2.2 GiB; md5 1eeca465f0ba00e8b03ed234a768c3ff)_
 
 Register here to be notified of new releases:
 
