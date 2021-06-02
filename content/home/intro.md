@@ -87,6 +87,7 @@ We're interested in how DAGW is used; please contact us if you train a model ove
 We're interested in how DAGW is used; please contact us if you build a tool from it.
 
 ## Press Coverage
+* [ITU led project will make automated translation more reliable](https://en.itu.dk/about-itu/press/news-from-itu/2021/itu-led-project-will-make-automated-translation-more-reliable) - ITU 
 * [Superalgoritme kortlægger det danske had og afslører yndlingsofrene på Facebook](https://politiken.dk/indland/art8205046/Superalgoritme-kortl%C3%A6gger-det-danske-had-og-afsl%C3%B8rer-yndlingsofrene-p%C3%A5-Facebook) - Politiken
 * [Sprogmodellen Ælæctra vil forbedre dansk sprogteknologi på en klimavenlig måde](https://www.kmd.dk/presse/pressemeddelelser-og-nyheder/sprogmodellen-aelaectra-vil-forbedre-dansk-sprogteknologi-paa-en-klimavenlig-maade) - KMD
 * [This Powerful AI Technique Led to Clashes at Google and Fierce Debate in Tech. Here's Why.](https://www.morningbrew.com/emerging-tech/stories/2021/03/29/one-biggest-advancements-ai-also-sparked-fierce-debate-heres) - Morning Brew
