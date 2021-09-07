@@ -83,10 +83,12 @@ We're interested in how DAGW is used; please contact us if you train a model ove
 ## Tools using Danish Gigaword
 
 * A&ttack and Ha&te by [Analyse & Tal](https://ogtal.dk)
+* Implementation in [Sketch Engine](https://www.sketchengine.eu/danish-gigaword-corpus/?s=)
 
 We're interested in how DAGW is used; please contact us if you build a tool from it.
 
 ## Press Coverage
+* [Featured in the Foreign Ministry's "Invest in Denmark"](https://investindk.com/insights/denmark-to-strenghten-opportunities-for-nlp-businesses)
 * [A Danish billion-word corpus appears](https://jack-clark.net/2021/06/07/import-ai-252-gait-surveillance-a-billion-danish-words-deepmind-makes-phone-using-agents/) - Import AI
 * [Danish Gigaword Project - et historisk stort dansk tekstkorpus](https://sprogteknologi.dk/blog/danish-gigaword-project-et-historisk-stort-dansk-tekstkorpus) - Sprogteknologi.dk / Digitaliseringsstyrelsen
 * [ITU led project will make automated translation more reliable](https://en.itu.dk/about-itu/press/news-from-itu/2021/itu-led-project-will-make-automated-translation-more-reliable) - ITU 
