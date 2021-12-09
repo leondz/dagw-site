@@ -19,7 +19,7 @@ advanced:
 
 ## Introduction
 
-It’s hard to develop good tools processing Danish with computers when no large and wide-coverage dataset of Danish text is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is:
+It’s hard to develop good tools for processing Danish with computers when no large and wide-coverage dataset of Danish text is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is:
 
  1. representative; 
  2. accessible; 
