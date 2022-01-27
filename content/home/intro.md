@@ -88,6 +88,7 @@ We're interested in how DAGW is used; please contact us if you train a model ove
 We're interested in how DAGW is used; please contact us if you build a tool from it.
 
 ## Press Coverage
+* [I Danmark har vi vores egne grundmodeller til dansk sprog. Det udvikles dog udelukkende af ihærdige frivillige, som gør et fantastisk arbejde.](https://borsen.dk/nyheder/opinion/debat-staten-investerer-stort-i-kunstig-intelligens-men-rammer-forbi-skiven) - Børsen
 * [Featured in the Foreign Ministry's "Invest in Denmark"](https://investindk.com/insights/denmark-to-strenghten-opportunities-for-nlp-businesses)
 * [A Danish billion-word corpus appears](https://jack-clark.net/2021/06/07/import-ai-252-gait-surveillance-a-billion-danish-words-deepmind-makes-phone-using-agents/) - Import AI
 * [Danish Gigaword Project - et historisk stort dansk tekstkorpus](https://sprogteknologi.dk/blog/danish-gigaword-project-et-historisk-stort-dansk-tekstkorpus) - Sprogteknologi.dk / Digitaliseringsstyrelsen
