@@ -88,6 +88,8 @@ We're interested in how DAGW is used; please contact us if you train a model ove
 We're interested in how DAGW is used; please contact us if you build a tool from it.
 
 ## Press Coverage
+* [Danish AI Trained on Data From a Web Forum About Horses](https://www.bloomberg.com/news/newsletters/2023-09-22/danish-ai-trained-on-data-from-a-web-forum-about-horses)
+* [ChatGPT blev trænet af danske hestetøser](https://www.heste-nettet.dk/nyheder/15285/)
 * [I Danmark har vi vores egne grundmodeller til dansk sprog. Det udvikles dog udelukkende af ihærdige frivillige, som gør et fantastisk arbejde.](https://borsen.dk/nyheder/opinion/debat-staten-investerer-stort-i-kunstig-intelligens-men-rammer-forbi-skiven) - Børsen
 * [Featured in the Foreign Ministry's "Invest in Denmark"](https://investindk.com/insights/denmark-to-strenghten-opportunities-for-nlp-businesses)
 * [A Danish billion-word corpus appears](https://jack-clark.net/2021/06/07/import-ai-252-gait-surveillance-a-billion-danish-words-deepmind-makes-phone-using-agents/) - Import AI
