@@ -36,7 +36,7 @@ Danish Gigaword is available via the IT University of Copenhagen:
 
 ## Documentation
 
-Read the paper about [The Danish Gigaword Corpus](http://derczynski.com/papers/dagw.pdf).
+Read the paper about [The Danish Gigaword Corpus](https://aclanthology.org/2021.nodalida-main.46/).
 
 ## License & Reference
 
