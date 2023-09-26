@@ -76,7 +76,7 @@ If you cannot acknowledge the project like this, you are not licensed to use the
 
 ## Models using Danish Gigaword
 
-* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing. [Huggingface Model Hub](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased)
+* Ælæctra - A Step Towards More Efficient Danish Natural Language Processing. [huggingface.co/Maltehb/aelaectra-danish-electra-small-cased](https://huggingface.co/Maltehb/aelaectra-danish-electra-small-cased)
 
 We're interested in how DAGW is used; please contact us if you train a model over it.
 
