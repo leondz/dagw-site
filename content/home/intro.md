@@ -19,7 +19,7 @@ advanced:
 
 ## Introduction
 
-It’s hard to develop good tools for processing Danish with computers when no large and wide-coverage dataset of Danish text is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. This is the homepage for the project. The general goals are to create a dataset that is:
+It’s hard to develop good tools for processing Danish with computers when no large and wide-coverage dataset of Danish text is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. DAGW is a project of the IT University of Copenhagen, contributed to by over a dozen other universities and businesses in Denmark; you can read the official ITU press release [here](https://en.itu.dk/about-itu/press/news-from-itu/2021/itu-led-project-will-make-automated-translation-more-reliable). This is the homepage for the project. The general goals are to create a dataset that is:
 
  1. representative; 
  2. accessible; 
@@ -88,7 +88,9 @@ We're interested in how DAGW is used; please contact us if you train a model ove
 We're interested in how DAGW is used; please contact us if you build a tool from it.
 
 ## Press Coverage
-* [Danish AI Trained on Data From a Web Forum About Horses](https://www.bloomberg.com/news/newsletters/2023-09-22/danish-ai-trained-on-data-from-a-web-forum-about-horses)
+* [Heste-nettet kan blive grundlag for kunstig intelligens på dansk](https://www.dr.dk/nyheder/viden/teknologi/heste-nettet-kan-blive-grundlag-kunstig-intelligens-paa-dansk) - Danmarks Radio
+* [Hestenet, tørstige prompts og chatbot, der kan høre og se](https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-hestenet-toerstige-prompts-og-chatbot-der-kan-hoere-og-se-11802321008) - Prompt
+* [Danish AI Trained on Data From a Web Forum About Horses](https://www.bloomberg.com/news/newsletters/2023-09-22/danish-ai-trained-on-data-from-a-web-forum-about-horses) - Bloomberg
 * [ChatGPT blev trænet af danske hestetøser](https://www.heste-nettet.dk/nyheder/15285/)
 * [I Danmark har vi vores egne grundmodeller til dansk sprog. Det udvikles dog udelukkende af ihærdige frivillige, som gør et fantastisk arbejde.](https://borsen.dk/nyheder/opinion/debat-staten-investerer-stort-i-kunstig-intelligens-men-rammer-forbi-skiven) - Børsen
 * [Featured in the Foreign Ministry's "Invest in Denmark"](https://investindk.com/insights/denmark-to-strenghten-opportunities-for-nlp-businesses)
