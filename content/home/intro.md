@@ -29,10 +29,9 @@ The corpus is managed and communicated in English so that the world beyond Denma
 
 ## Download
 
-Danish Gigaword is available via the IT University of Copenhagen: 
+Danish Gigaword is available via Hugging Face:
 
-> [dagw_v1.0-release.zip](https://bit.ly/danishgigaword10)  _(2.2 GiB; md5 1eeca465f0ba00e8b03ed234a768c3ff)_
-
+> [huggingface.co/datasets/danish-foundation-models/danish-gigaword](https://huggingface.co/datasets/danish-foundation-models/danish-gigaword)
 
 ## Documentation
 
